@@ -26,7 +26,7 @@ navbar-links:
   #Project:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Home Page: "grdesai20.github.io"
+  Home Page: "gunjandesai20.github.io"
 
 # --- Logo --- #
 
@@ -49,7 +49,7 @@ round-avatar: true
 social-network-links:
   email: "gunjandesai20@gmail.com"
   #facebook: deanattali
-  github: grdesai20
+  github: gunjandesai20
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "grdesai20.github.io"
+url-pretty: "gunjandesai20.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
